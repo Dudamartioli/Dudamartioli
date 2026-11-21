@@ -39,8 +39,6 @@ O **Lila's – Pão de Mel** foi desenvolvido na disciplina de **Desenvolvimento
 - **Gestão financeira:** acompanhamento de receitas, despesas e resultados.
 - **Controle de acesso:** autenticação, sessões e perfis de cliente, administrador e ambos.
 
-**Diferencial do projeto:** além da implementação técnica, o trabalho envolveu **entendimento do contexto de uso, levantamento de requisitos, decisões sobre fluxos e validação de funcionalidades**.
-
 <div align="center">
 
 [![Ver projeto Lila's](https://img.shields.io/badge/CONHECER_O_PROJETO-5B2A86?style=for-the-badge&logo=github&logoColor=C4A1F5)](https://github.com/Dudamartioli/Maria-Eduarda-Martioli_4bim_lilas-pao-de-mel)
