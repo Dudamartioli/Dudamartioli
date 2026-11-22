@@ -66,7 +66,7 @@ Além de praticar tecnologias de frontend, backend e banco de dados, pude exerci
 
 ## 🌱 Em desenvolvimento
 
-Estou aprofundando meus conhecimentos em **desenvolvimento web**, **bancos de dados** e **engenharia de software**, buscando criar projetos cada vez mais organizados, acessíveis e úteis.
+Estou aprofundando meus conhecimentos em **desenvolvimento web** e **bancos de dados**, buscando criar projetos cada vez mais organizados, acessíveis e úteis.
 
 ## 📚 Outros projetos acadêmicos
 
