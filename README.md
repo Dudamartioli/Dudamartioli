@@ -72,8 +72,6 @@ Estou aprofundando meus conhecimentos em **desenvolvimento web** e **bancos de d
 
 - [Biblioteca Fácil — 3º bimestre](https://github.com/Dudamartioli/Maria-Eduarda-Martioli_3bim_Biblioteca-Facil)
 - [Catálogo de Doces — 2º bimestre](https://github.com/Dudamartioli/Maria-Eduarda-Martioli_2bim_Catalogo-de-doces)
-- [Repositório de Algoritmos - 1° ano](https://github.com/Dudamartioli/Algoritmos_1ano-do-Curso-Técnico
-)
 
 ---
 
